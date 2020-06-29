@@ -4,7 +4,7 @@
 *************************************
 ### *Description*: 
 
-*Image are uploaded with the help of Android application onto server will the process the image. Firstly image will undergo various edits such as Binarization, Median Blurring, Adaptive Threshold, etc. then the text form the image is extracted using tesseract library. The extracted text is then provided to the GoogleTrans to convert the obtained text into user desired language.*
+*Image is uploaded with the help of Android application onto the server will then process the image. Firstly image will undergo various edits such as Binarization, Median Blurring, Adaptive Threshold, etc. then the text from the image is extracted using tesseract library. The extracted text is then provided to the GoogleTrans to convert the obtained text into the user desired language.*
 
 ```
 1.Image processing-Scaling,Convert to gray,Binarization,Bilateral Filtering,Adaptive Thresholding.
