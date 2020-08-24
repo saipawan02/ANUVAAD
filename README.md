@@ -8,9 +8,8 @@
 
 ```
 1.Image processing-Scaling,Convert to gray,Binarization,Bilateral Filtering,Adaptive Thresholding.
-2.The primary character classifier function in Tesseract OCR is based on an implementation of a Long Short-Term Memory neural network or LSTM network. 
-3.Training Tesseract to improve performance.
-4.Googletrans for translation of the extracted text.
+2.The primary character classifier function in Tesseract OCR is based on an implementation of a Long Short-Term Memory neural network or LSTM network.
+3.Googletrans for translation of the extracted text.
 ```
 *****************************************
 ### *Technology stack*:
